@@ -4,6 +4,9 @@ Hi there, I'm Victor, a professional focused on data analysis, Big Data, and Ana
 
 
 
+![image](https://github.com/user-attachments/assets/e8f6c045-3098-4b23-8a03-0cf116528c4a)
+
+
 <!--
 **victor-marques-ai/victor-marques-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
